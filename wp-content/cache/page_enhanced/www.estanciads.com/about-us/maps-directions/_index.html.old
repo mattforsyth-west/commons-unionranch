@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<head><link rel="stylesheet" type="text/css" href="http://www.estanciads.com/wp-content/cache/minify/000000/c6c61/default.include.530684.css" media="all" />
+<script type="text/javascript" src="http://www.estanciads.com/wp-content/cache/minify/000000/c6c61/default.include.8cf5e7.js"></script>
+
+
+<meta charset="UTF-8" />
+
+<title>Maps &amp; Directions - Estancia Del Sol, Corona CA</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="format-detection" content="telephone=no" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+<link rel="pingback" href="http://www.estanciads.com/xmlrpc.php" />
+
+
+<link rel="icon" href="http://www.estanciads.com/wp-content/uploads/2014/08/favicon.gif" type="image/x-icon" />
+
+
+<!--[if lt IE 9]>
+
+<script src="http://www.estanciads.com/wp-content/themes/duena/js/html5.js" type="text/javascript"></script>
+
+<![endif]-->
+
+<!--[if (gt IE 9)|!(IE)]>
+
+<script src="http://www.estanciads.com/wp-content/themes/duena/js/jquery.mobile.customized.min.js" type="text/javascript"></script>
+
+<![endif]-->
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Follow these driving directions to reach our senior living community in Corona, CA."/>
+<link rel="canonical" href="http://www.estanciads.com/about-us/maps-directions/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Maps &amp; Directions - Estancia Del Sol, Corona CA" />
+<meta property="og:description" content="Follow these driving directions to reach our senior living community in Corona, CA." />
+<meta property="og:url" content="http://www.estanciads.com/about-us/maps-directions/" />
+<meta property="og:site_name" content="Estancia Del Sol" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Estancia Del Sol &raquo; Feed" href="http://www.estanciads.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Estancia Del Sol &raquo; Comments Feed" href="http://www.estanciads.com/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Estancia Del Sol &raquo; iCal Feed" href="http://www.estanciads.com/events/?ical=1" />
+
+
+
+
+
+
+<style type='text/css'>
+
+    a,
+    .searchform .screen-reader-text,
+    .post_meta i,
+    .author_bio_sidebar .social_box a,
+    .post-title a:hover,
+    .post-footer i,
+    .page_nav_wrap .post_nav ul li .current,
+    .page_nav_wrap .post_nav ul li a:hover {
+		color: #4faca7;
+	}
+	.post_type_label,
+	.flex-direction-nav a,
+	#content .featured_badge,
+	.author_bio_sidebar .social_box,
+	.flex-control-paging li a.flex-active,
+	.flex-control-paging li a:hover,
+	#toTop,
+	.post-footer a,
+	.navbar_inner > div > ul ul, 
+	.navbar_inner > ul ul,
+	.btn.btn-primary,
+	input[type='submit'],
+	input[type='reset'] {
+		background-color: #4faca7;
+	}
+	.site-info,
+	.widget,
+	#slider-wrapper .flexslider,
+	.navbar_inner > div > ul > li > a,
+	.navbar_inner > div > ul > li > a:hover, 
+	.navbar_inner > div > ul > li.sfHover > a, 
+	.navbar_inner > div > ul > li.current-menu-item > a, 
+	.navbar_inner > div > ul > li.current_page_item > a,
+	.navbar_inner > ul > li > a,
+	.navbar_inner > ul > li > a:hover, 
+	.navbar_inner > ul > li.sfHover > a, 
+	.navbar_inner > ul > li.current-menu-item > a, 
+	.navbar_inner > ul > li.current_page_item > a,
+	.breadcrumb,
+	#comments,
+	.post-footer a,
+	.author-info {
+		border-color: #4faca7;
+	}
+	a:hover,
+	a:focus {
+		color: #206b6e;
+	}
+
+	.btn.btn-primary:hover,
+	input[type='submit']:hover,
+	input[type='reset']:hover,
+	.slider-caption .btn.btn-primary:hover {
+		background-color: #206b6e;
+	}
+
+	textarea:focus,
+	input[type='text']:focus,
+	input[type='password']:focus,
+	input[type='datetime']:focus,
+	input[type='datetime-local']:focus,
+	input[type='date']:focus,
+	input[type='month']:focus,
+	input[type='time']:focus,
+	input[type='week']:focus,
+	input[type='number']:focus,
+	input[type='email']:focus,
+	input[type='url']:focus,
+	input[type='search']:focus,
+	input[type='tel']:focus,
+	input[type='color']:focus,
+	.uneditable-input:focus {
+		border-color: #4faca7;
+		box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 2px #4faca7;
+	}
+	
+</style>
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='duena_ie-css'  href='http://www.estanciads.com/wp-content/themes/duena/css/ie.css?ver=4.0' type='text/css' media='all' />
+<![endif]-->
+
+
+<script type='text/javascript' src='http://www.estanciads.com/wp-content/plugins/responsive-lightbox/assets/prettyphoto/js/jquery.prettyPhoto.js?ver=4.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rlArgs = {"script":"prettyphoto","selector":"lightbox","custom_events":"","activeGalleries":"1","animationSpeed":"normal","slideshow":"0","slideshowDelay":"5000","slideshowAutoplay":"0","opacity":"0.75","showTitle":"1","allowResize":"1","allowExpand":"0","width":"1080","height":"720","separator":"\/","theme":"pp_default","horizontalPadding":"20","hideFlash":"0","wmode":"opaque","videoAutoplay":"0","modal":"0","deeplinking":"0","overlayGallery":"1","keyboardShortcuts":"1","social":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.estanciads.com/wp-content/plugins/responsive-lightbox/js/front.js?ver=4.0'></script>
+<script type='text/javascript' src='http://www.estanciads.com/wp-content/plugins/wptextresizecontrols/text.js?ver=4.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.estanciads.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.estanciads.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0" />
+<link rel='shortlink' href='http://www.estanciads.com/?p=20' />
+<style type="text/css">	.ssba {
+											
+											
+											
+											
+										}
+										.ssba img		
+										{ 	
+											width: 44px !important;
+											padding: 4px;
+											border:  0;
+											box-shadow: none !important;
+											display: inline !important;
+											vertical-align: middle;
+										}
+										.ssba, .ssba a		
+										{
+											text-decoration:none;
+											background: none;
+											
+											font-size: 	20px;
+											
+											font-weight: normal;
+										}</style><script type="text/javascript">var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-55845292-1"]);_gaq.push(["_trackPageview"]);(function(){var ga=document.createElement("script");ga.type="text/javascript";ga.async=true;ga.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga,s);})();</script><script>window.jQuery || document.write('<script src="/wp-includes/js/jquery/jquery.js"><\/script>')</script>
+
+<!-- CORPORATE LEAD TRACKING-->
+<!-- Start: Copyright 2013 Lead InSite Inc. Patent Pending -->
+<script type="text/javascript" src="http://leadinsiteportal.com/heatmap/userTrack/tracker.js"></script>
+<!-- End: Copyright 2013 Lead InSite Inc. Patent Pending -->
+
+</head>
+
+
+
+<body class="page page-id-20 page-child parent-pageid-12 page-template-default tribe-bar-is-disabled wptextresize group-blog tribe-theme-duena page-template-page-php">
+<div id="subsite-global-header">
+	<div class="container">
+    	<div class="row">
+            <div class="col-md-12" id="westliving-subsite-links">
+		<a href="/request-info" class="btn" id="header-request-btn">Request More Information</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="page-wrapper">
+
+	
+	<header id="header" role="banner">
+
+		<div class="container clearfix">
+
+			<div class="logo">
+
+			
+					<a href="http://www.estanciads.com/" title="Estancia Del Sol" rel="home"><img src="http://www.estanciads.com/wp-content/uploads/estancia-del-sol-logo.png" alt="Estancia Del Sol"></a>
+
+			
+				<p class="site-description">Corona Senior Living</p>
+
+			</div>
+
+			  
+
+	          <div id="top-search">
+
+                    <!--<div class="header-phone">800.571.8039</div>-->
+<div id="phone-resizer-wrapper" class="header-phone"><span>951.340.3200</span><span class="text-resizer-wrapper">	<div title='Resize Body Text' class='wpTextResizeControls'>
+	<a class='increaseFont' title='Increase Font Size'>A+</a><a class='resetFont' title='Reset Font Size'>A</a><a class='decreaseFont' title='Decrease Font Size'>A-</a></div>
+	</span></div>
+			
+	            <form method="get" action="http://www.estanciads.com/">
+
+	              <input type="text" name="s"  class="input-search" /><input type="submit" value="" id="submit">
+
+	            </form>
+
+	          </div>  
+
+	        
+	        <div class="clear"></div>
+
+			<nav id="site-navigation" class="main-nav" role="navigation">
+
+				<div class="navbar_inner">
+
+				<ul id="topnav" class="sf-menu"><li id="menu-item-290" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-290"><a href="/">Home</a></li>
+<li id="menu-item-291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-291"><a href="http://www.estanciads.com/senior-living-options/">Living Options</a>
+<ul class="sub-menu">
+	<li id="menu-item-292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-292"><a href="http://www.estanciads.com/senior-living-options/assisted-living/">Assisted Living</a></li>
+	<li id="menu-item-294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-294"><a href="http://www.estanciads.com/senior-living-options/independent-living/">Independent Living</a></li>
+	<li id="menu-item-295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-295"><a href="http://www.estanciads.com/senior-living-options/memory-care/">Memory Care</a></li>
+	<li id="menu-item-296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-296"><a href="http://www.estanciads.com/senior-living-options/respite-care/">Respite Care</a></li>
+</ul>
+</li>
+<li id="menu-item-297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-297"><a href="http://www.estanciads.com/senior-care-services-amenities/">Services &#038; Amenities</a>
+<ul class="sub-menu">
+	<li id="menu-item-298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a href="http://www.estanciads.com/senior-care-services-amenities/retirement-community-activities/">Community Activities</a></li>
+	<li id="menu-item-299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299"><a href="http://www.estanciads.com/senior-care-services-amenities/concierge/">Concierge</a></li>
+	<li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-300"><a href="http://www.estanciads.com/senior-care-services-amenities/dining/">Restaurant Dining or Casual Bistro</a></li>
+	<li id="menu-item-302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-302"><a href="http://www.estanciads.com/senior-care-services-amenities/salon/">Salon</a></li>
+	<li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="http://www.estanciads.com/senior-care-services-amenities/transportation/">Transportation</a></li>
+	<li id="menu-item-304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-304"><a href="http://www.estanciads.com/senior-care-services-amenities/senior-wellness/">Senior Wellness</a></li>
+	<li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-305"><a href="http://www.estanciads.com/senior-care-services-amenities/westfitness-senior-fitness/">WESTfitness</a></li>
+</ul>
+</li>
+<li id="menu-item-330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-330"><a href="http://www.estanciads.com/floor-plans/">Floor Plans</a></li>
+<li id="menu-item-341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-341"><a href="http://www.estanciads.com/news/">News</a></li>
+<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-306"><a href="http://www.estanciads.com/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-20 current_page_item menu-item-307 active"><a href="http://www.estanciads.com/about-us/maps-directions/">Maps &#038; Directions</a></li>
+	<li id="menu-item-308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-308"><a href="http://www.estanciads.com/about-us/meet-our-team/">Meet Our Team</a></li>
+	<li id="menu-item-385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-385"><a href="/events">Events</a></li>
+	<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-310"><a href="http://www.estanciads.com/about-us/senior-resources/">Senior Resources</a></li>
+	<li id="menu-item-311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311"><a href="http://www.estanciads.com/about-us/local-attractions/">Local Attractions</a></li>
+	<li id="menu-item-622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-622"><a href="http://www.westliving.net/careers/?cat=10">WESTliving Careers</a></li>
+	<li id="menu-item-313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-313"><a href="http://www.estanciads.com/about-us/about-westliving/">About WESTliving</a></li>
+</ul>
+</li>
+<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a href="http://www.estanciads.com/contact/">Contact</a></li>
+</ul>
+				</div>
+
+			</nav><!-- #site-navigation -->
+
+		</div>
+
+	</header><!-- #masthead -->
+    
+
+	
+	<div id="main" class="site-main">
+
+		<div class="container">
+
+		<p id="breadcrumbs">	You Are Here:
+
+		<span prefix="v: http://rdf.data-vocabulary.org/#">
+			<span typeof="v:Breadcrumb"><a href="http://www.estanciads.com" rel="v:url" property="v:title">Home</a></span> / <span typeof="v:Breadcrumb"><a href="http://www.estanciads.com/about-us/" rel="v:url" property="v:title">About Us</a></span> / <span typeof="v:Breadcrumb"><span class="breadcrumb_last" property="v:title">Maps &amp; Directions</span></span>
+		</span></p>
+			<div class="row">
+    <div class="col-md-8">
+        <h1>Maps &#038; Directions</h1>
+    </div>
+</div>
+<div class="row">
+
+	<div id="primary" class="col-md-8 right">
+
+		<div id="content" class="site-content" role="main">
+
+				
+					<div class="page_wrap">
+						
+						<!--<h1 class="entry-title"></h1>-->
+
+
+						<h3><strong>Estancia Del Sol</strong><br />
+2489 California Avenue<br />
+Corona, CA  92881<br />
+951-340-3200</h3>
+<div id="text-17" class="widget widget_text">			<div class="textwidget"><div class="part_partial" id="p_col1_middle">
+<!--
+
+=================================
+
+Begin Directions
+
+=================================
+
+-->
+
+
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript">
+
+function clearText(field){
+
+  if (field.defaultValue == field.value) field.value = '';
+
+  else if (field.value == '') field.value = field.defaultValue;
+
+}
+
+</script>
+
+
+      <script type="text/javascript">
+
+      var myOptions = {
+
+        zoom: 14,
+        mapTypeId: google.maps.MapTypeId.ROADMAP,
+		center: new google.maps.LatLng(33.8411339,-117.537616)
+		
+		};
+		
+		var directionsDisplay;
+
+          var directionsService = new google.maps.DirectionsService();
+
+          function calcRoute() {
+
+            var fromAddress = document.getElementById("fromAddress").value;
+
+            var toAddress = document.getElementById("toAddress").value;
+
+            var request = {
+
+                origin:fromAddress,
+
+                destination:toAddress,
+
+                travelMode: google.maps.DirectionsTravelMode.DRIVING
+
+            };
+
+            directionsService.route(request, function(response, status) {
+
+              if (status == google.maps.DirectionsStatus.OK) {
+
+                directionsDisplay.setDirections(response);
+
+              }
+
+            });
+
+          }
+
+      var map;
+
+      var image = "";
+
+      var infowindow = new google.maps.InfoWindow();
+
+      function initialize() {
+
+        map = new google.maps.Map(document.getElementById("directionsMap"), myOptions);
+
+            var LatLngList = Array(new google.maps.LatLng (33.8411339, -117.537616));
+
+            var bounds = new google.maps.LatLngBounds();
+
+
+
+            // Extend the bounds for each marker
+
+            for (var i = 0, LtLgLen = LatLngList.length; i < LtLgLen; i++) {
+
+              bounds.extend(LatLngList[i]);
+
+            }
+
+
+
+            // Don't zoom in too far on only one marker
+
+            if (bounds.getNorthEast().equals(bounds.getSouthWest())) {
+
+               var extendPoint1 = new google.maps.LatLng(bounds.getNorthEast().lat() + 0.01, bounds.getNorthEast().lng() + 0.01);
+
+               var extendPoint2 = new google.maps.LatLng(bounds.getNorthEast().lat() - 0.01, bounds.getNorthEast().lng() - 0.01);
+
+               bounds.extend(extendPoint1);
+
+               bounds.extend(extendPoint2);
+
+            }
+
+
+
+            map.fitBounds(bounds);
+
+            google.maps.event.addDomListener(window, 'resize', function(){
+
+              map.fitBounds(bounds);
+
+            });
+
+addMarker({lat: 33.8411339, lng: -117.537616, content: '<div style="font-size: 12px; background-color: white;"><strong>Estancia Del Sol</strong><br />2489 California Avenue<br />Corona, CA  92881<br/><a href="http://www.commonsatelkgrove.com">click here for more info</a></div>' });
+
+            directionsDisplay = new google.maps.DirectionsRenderer();
+
+            directionsDisplay.setMap(map);
+
+            directionsDisplay.setPanel(document.getElementById("directionsContent"));
+
+}        function addMarker(data) {
+
+          // Create the marker
+
+          var marker = new google.maps.Marker({
+
+            position: new google.maps.LatLng(data.lat, data.lng),
+
+            map: map,
+
+            icon: image
+
+          });
+
+
+
+          // Open the info window on marker click
+
+          google.maps.event.addListener(marker, "click", function() {
+
+            infowindow.setContent(data.content);
+
+            infowindow.open(map, marker);
+
+          });
+
+        }
+
+        window.onload = initialize
+
+        </script>
+
+
+<form id="directionsForm" action="#" onsubmit="calcRoute(); return false" class="multi-submit">
+
+  <label for="fromAddress" id="fromAddress_label">From:</label>
+
+  <input type="text" name="from" id="fromAddress" value="Enter Your Address" onfocus="clearText(this)" onblur="clearText(this)">
+
+
+  <label for="toAddress" id="toAddress_label">To:</label>
+
+  <input type="text" name="to" id="toAddress" value="2489 California Avenue, Corona, CA">
+
+  <input type="hidden" name="locale" value="en">
+
+  <input type="submit" name="submit-button" id="submit-button" value="Get Directions!">
+
+  <input type="button" id="printButton" value="Print this Page" onclick="window.print()">
+
+</form>
+
+
+
+<div id="directionsMap" style="position: relative; overflow: hidden; -webkit-transform: translateZ(0px); background-color: rgb(229, 227, 223);height:400px;width:100%; margin-top:15px;"><div class="gm-style" style="position: absolute; left: 0px; top: 0px; overflow: hidden; width: 100%; height: 100%; z-index: 0;"><div style="position: absolute; left: 0px; top: 0px; overflow: hidden; width: 100%; height: 100%; z-index: 0; cursor: url(http://maps.gstatic.com/mapfiles/openhand_8_8.cur) 8 8, default;"><div style="position: absolute; left: 0px; top: 0px; z-index: 1; width: 100%; transform-origin: 0px 0px 0px; transform: matrix(1, 0, 0, 1, 0, 0);"><div style="-webkit-transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 100; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; left: 0px; top: 0px; z-index: 1;"><div style="width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 159px; top: -112px;"></div><div style="width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 159px; top: 144px;"></div><div style="width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: -97px; top: -112px;"></div><div style="width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: -97px; top: 144px;"></div><div style="width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 415px; top: -112px;"></div><div style="width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 415px; top: 144px;"></div></div></div></div><div style="-webkit-transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 101; width: 100%;"></div><div style="-webkit-transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 102; width: 100%;"></div><div style="-webkit-transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 103; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: -1;"><div style="position: absolute; left: 0px; top: 0px; z-index: 1;"><div style="width: 256px; height: 256px; overflow: hidden; -webkit-transform: translateZ(0px); position: absolute; left: 159px; top: -112px;"><canvas draggable="false" height="256" width="256" style="-webkit-user-select: none; position: absolute; left: 0px; top: 0px; height: 256px; width: 256px;"></canvas></div><div style="width: 256px; height: 256px; overflow: hidden; -webkit-transform: translateZ(0px); position: absolute; left: 159px; top: 144px;"><canvas draggable="false" height="256" width="256" style="-webkit-user-select: none; position: absolute; left: 0px; top: 0px; height: 256px; width: 256px;"></canvas></div><div style="width: 256px; height: 256px; overflow: hidden; -webkit-transform: translateZ(0px); position: absolute; left: -97px; top: -112px;"></div><div style="width: 256px; height: 256px; overflow: hidden; -webkit-transform: translateZ(0px); position: absolute; left: -97px; top: 144px;"></div><div style="width: 256px; height: 256px; overflow: hidden; -webkit-transform: translateZ(0px); position: absolute; left: 415px; top: -112px;"></div><div style="width: 256px; height: 256px; overflow: hidden; -webkit-transform: translateZ(0px); position: absolute; left: 415px; top: 144px;"></div></div></div></div><div style="position: absolute; z-index: 0; left: 0px; top: 0px;"><div style="overflow: hidden; width: 576px; height: 300px;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&amp;1i341089&amp;2i805744&amp;2e1&amp;3u13&amp;4m2&amp;1u576&amp;2u300&amp;5m5&amp;1e0&amp;5sen-US&amp;6sus&amp;10b1&amp;12b1&amp;token=73287" style="width: 576px; height: 300px;"><noscript><img src="http://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&amp;1i341089&amp;2i805744&amp;2e1&amp;3u13&amp;4m2&amp;1u576&amp;2u300&amp;5m5&amp;1e0&amp;5sen-US&amp;6sus&amp;10b1&amp;12b1&amp;token=73287" style="width: 576px; height: 300px;"></noscript></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; left: 0px; top: 0px; z-index: 1;"><div style="width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 159px; top: 144px; opacity: 1; transition: opacity 200ms ease-out; -webkit-transition: opacity 200ms ease-out;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://mt1.googleapis.com/vt?pb=!1m4!1m3!1i13!2i1333!3i3148!2m3!1e0!2sm!3i273000000!3m9!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!4e0" draggable="false" style="width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; -webkit-transform: translateZ(0px);"><noscript><img src="http://mt1.googleapis.com/vt?pb=!1m4!1m3!1i13!2i1333!3i3148!2m3!1e0!2sm!3i273000000!3m9!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!4e0" draggable="false" style="width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; -webkit-transform: translateZ(0px);"></noscript></div><div style="width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 415px; top: -112px; opacity: 1; transition: opacity 200ms ease-out; -webkit-transition: opacity 200ms ease-out;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://mt0.googleapis.com/vt?pb=!1m4!1m3!1i13!2i1334!3i3147!2m3!1e0!2sm!3i273153669!3m9!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!4e0" draggable="false" style="width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; -webkit-transform: translateZ(0px);"><noscript><img src="http://mt0.googleapis.com/vt?pb=!1m4!1m3!1i13!2i1334!3i3147!2m3!1e0!2sm!3i273153669!3m9!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!4e0" draggable="false" style="width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; -webkit-transform: translateZ(0px);"></noscript></div><div style="width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 159px; top: -112px; opacity: 1; transition: opacity 200ms ease-out; -webkit-transition: opacity 200ms ease-out;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://mt1.googleapis.com/vt?pb=!1m4!1m3!1i13!2i1333!3i3147!2m3!1e0!2sm!3i273125823!3m9!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!4e0" draggable="false" style="width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; -webkit-transform: translateZ(0px);"><noscript><img src="http://mt1.googleapis.com/vt?pb=!1m4!1m3!1i13!2i1333!3i3147!2m3!1e0!2sm!3i273125823!3m9!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!4e0" draggable="false" style="width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; -webkit-transform: translateZ(0px);"></noscript></div><div style="width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: -97px; top: 144px; opacity: 1; transition: opacity 200ms ease-out; -webkit-transition: opacity 200ms ease-out;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://mt0.googleapis.com/vt?pb=!1m4!1m3!1i13!2i1332!3i3148!2m3!1e0!2sm!3i273179904!3m9!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!4e0" draggable="false" style="width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; -webkit-transform: translateZ(0px);"><noscript><img src="http://mt0.googleapis.com/vt?pb=!1m4!1m3!1i13!2i1332!3i3148!2m3!1e0!2sm!3i273179904!3m9!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!4e0" draggable="false" style="width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; -webkit-transform: translateZ(0px);"></noscript></div><div style="width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: -97px; top: -112px; opacity: 1; transition: opacity 200ms ease-out; -webkit-transition: opacity 200ms ease-out;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://mt0.googleapis.com/vt?pb=!1m4!1m3!1i13!2i1332!3i3147!2m3!1e0!2sm!3i273050154!3m9!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!4e0" draggable="false" style="width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; -webkit-transform: translateZ(0px);"><noscript><img src="http://mt0.googleapis.com/vt?pb=!1m4!1m3!1i13!2i1332!3i3147!2m3!1e0!2sm!3i273050154!3m9!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!4e0" draggable="false" style="width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; -webkit-transform: translateZ(0px);"></noscript></div><div style="width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 415px; top: 144px; opacity: 1; transition: opacity 200ms ease-out; -webkit-transition: opacity 200ms ease-out;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://mt0.googleapis.com/vt?pb=!1m4!1m3!1i13!2i1334!3i3148!2m3!1e0!2sm!3i273153669!3m9!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!4e0" draggable="false" style="width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; -webkit-transform: translateZ(0px);"><noscript><img src="http://mt0.googleapis.com/vt?pb=!1m4!1m3!1i13!2i1334!3i3148!2m3!1e0!2sm!3i273153669!3m9!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!4e0" draggable="false" style="width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; -webkit-transform: translateZ(0px);"></noscript></div></div></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 2; width: 100%; height: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 3; width: 100%; transform-origin: 0px 0px 0px; transform: matrix(1, 0, 0, 1, 0, 0);"><div style="-webkit-transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 104; width: 100%;"></div><div style="-webkit-transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 105; width: 100%;"></div><div style="-webkit-transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 106; width: 100%;"></div><div style="-webkit-transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 107; width: 100%;"></div></div></div><div style="margin-left: 5px; margin-right: 5px; z-index: 1000000; position: absolute; left: 0px; bottom: 0px;"><a target="_blank" href="http://maps.google.com/maps?ll=38.409733,-121.398755&amp;z=13&amp;t=m&amp;hl=en-US&amp;gl=US&amp;mapclient=apiv3" title="Click to see this area on Google Maps" style="position: static; overflow: visible; float: none; display: inline;"><div style="width: 62px; height: 26px; cursor: pointer;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://maps.gstatic.com/mapfiles/api-3/images/google_white2.png" draggable="false" style="position: absolute; left: 0px; top: 0px; width: 62px; height: 26px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"><noscript><img src="http://maps.gstatic.com/mapfiles/api-3/images/google_white2.png" draggable="false" style="position: absolute; left: 0px; top: 0px; width: 62px; height: 26px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"></noscript></div></a></div><div class="gmnoprint" style="z-index: 1000001; position: absolute; right: 168px; bottom: 0px; width: 122px;"><div draggable="false" class="gm-style-cc" style="-webkit-user-select: none;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="width: auto; height: 100%; margin-left: 1px; background-color: rgb(245, 245, 245);"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right;"><a style="color: rgb(68, 68, 68); text-decoration: none; cursor: pointer; display: none;">Map Data</a><span style="">Map data ©2014 Google</span></div></div></div><div style="padding: 15px 21px; border: 1px solid rgb(171, 171, 171); font-family: Roboto, Arial, sans-serif; color: rgb(34, 34, 34); -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 16px; box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 16px; z-index: 10000002; display: none; width: 256px; height: 148px; position: absolute; left: 138px; top: 60px; background-color: white;"><div style="padding: 0px 0px 10px; font-size: 16px;">Map Data</div><div style="font-size: 13px;">Map data ©2014 Google</div><div style="width: 13px; height: 13px; overflow: hidden; position: absolute; opacity: 0.7; right: 12px; top: 12px; z-index: 10000; cursor: pointer;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://maps.gstatic.com/mapfiles/api-3/images/mapcnt3.png" draggable="false" style="position: absolute; left: -2px; top: -336px; width: 59px; height: 492px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"><noscript><img src="http://maps.gstatic.com/mapfiles/api-3/images/mapcnt3.png" draggable="false" style="position: absolute; left: -2px; top: -336px; width: 59px; height: 492px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"></noscript></div></div><div class="gmnoscreen" style="position: absolute; right: 0px; bottom: 0px;"><div style="font-family: Roboto, Arial, sans-serif; font-size: 11px; color: rgb(68, 68, 68); direction: ltr; text-align: right; background-color: rgb(245, 245, 245);">Map data ©2014 Google</div></div><div class="gmnoprint gm-style-cc" draggable="false" style="z-index: 1000001; position: absolute; -webkit-user-select: none; right: 96px; bottom: 0px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="width: auto; height: 100%; margin-left: 1px; background-color: rgb(245, 245, 245);"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right;"><a href="http://www.google.com/intl/en-US_US/help/terms_maps.html" target="_blank" style="text-decoration: none; cursor: pointer; color: rgb(68, 68, 68);">Terms of Use</a></div></div><div draggable="false" class="gm-style-cc" style="-webkit-user-select: none; position: absolute; right: 0px; bottom: 0px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="width: auto; height: 100%; margin-left: 1px; background-color: rgb(245, 245, 245);"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right;"><a target="_new" title="Report errors in the road map or imagery to Google" href="http://maps.google.com/maps?ll=38.409733,-121.398755&amp;z=13&amp;t=m&amp;hl=en-US&amp;gl=US&amp;mapclient=apiv3&amp;skstate=action:mps_dialog$apiref:1&amp;output=classic" style="font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); text-decoration: none; position: relative;">Report a map error</a></div></div><div class="gmnoprint" draggable="false" controlwidth="32" controlheight="84" style="margin: 5px; -webkit-user-select: none; position: absolute; left: 0px; top: 0px;"><div controlwidth="32" controlheight="40" style="cursor: url(http://maps.gstatic.com/mapfiles/openhand_8_8.cur) 8 8, default; position: absolute; left: 0px; top: 0px;"><div style="width: 32px; height: 40px; overflow: hidden; position: absolute; left: 0px; top: 0px;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://maps.gstatic.com/mapfiles/api-3/images/cb_scout2.png" draggable="false" style="position: absolute; left: -9px; top: -102px; width: 1028px; height: 214px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"><noscript><img src="http://maps.gstatic.com/mapfiles/api-3/images/cb_scout2.png" draggable="false" style="position: absolute; left: -9px; top: -102px; width: 1028px; height: 214px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"></noscript></div><div style="width: 32px; height: 40px; overflow: hidden; position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://maps.gstatic.com/mapfiles/api-3/images/cb_scout2.png" draggable="false" style="position: absolute; left: -107px; top: -102px; width: 1028px; height: 214px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"><noscript><img src="http://maps.gstatic.com/mapfiles/api-3/images/cb_scout2.png" draggable="false" style="position: absolute; left: -107px; top: -102px; width: 1028px; height: 214px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"></noscript></div><div style="width: 32px; height: 40px; overflow: hidden; position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://maps.gstatic.com/mapfiles/api-3/images/cb_scout2.png" draggable="false" style="position: absolute; left: -58px; top: -102px; width: 1028px; height: 214px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"><noscript><img src="http://maps.gstatic.com/mapfiles/api-3/images/cb_scout2.png" draggable="false" style="position: absolute; left: -58px; top: -102px; width: 1028px; height: 214px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"></noscript></div><div style="width: 32px; height: 40px; overflow: hidden; position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://maps.gstatic.com/mapfiles/api-3/images/cb_scout2.png" draggable="false" style="position: absolute; left: -205px; top: -102px; width: 1028px; height: 214px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"><noscript><img src="http://maps.gstatic.com/mapfiles/api-3/images/cb_scout2.png" draggable="false" style="position: absolute; left: -205px; top: -102px; width: 1028px; height: 214px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"></noscript></div></div><div class="gmnoprint" controlwidth="0" controlheight="0" style="opacity: 0.6; display: none; position: absolute;"><div title="Rotate map 90 degrees" style="width: 22px; height: 22px; overflow: hidden; position: absolute; cursor: pointer;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://maps.gstatic.com/mapfiles/api-3/images/mapcnt3.png" draggable="false" style="position: absolute; left: -38px; top: -360px; width: 59px; height: 492px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"><noscript><img src="http://maps.gstatic.com/mapfiles/api-3/images/mapcnt3.png" draggable="false" style="position: absolute; left: -38px; top: -360px; width: 59px; height: 492px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"></noscript></div></div><div class="gmnoprint" controlwidth="20" controlheight="39" style="position: absolute; left: 6px; top: 45px;"><div style="width: 20px; height: 39px; overflow: hidden; position: absolute;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://maps.gstatic.com/mapfiles/api-3/images/mapcnt3.png" draggable="false" style="position: absolute; left: -39px; top: -401px; width: 59px; height: 492px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"><noscript><img src="http://maps.gstatic.com/mapfiles/api-3/images/mapcnt3.png" draggable="false" style="position: absolute; left: -39px; top: -401px; width: 59px; height: 492px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"></noscript></div><div title="Zoom in" style="position: absolute; left: 0px; top: 2px; width: 20px; height: 17px; cursor: pointer;"></div><div title="Zoom out" style="position: absolute; left: 0px; top: 19px; width: 20px; height: 17px; cursor: pointer;"></div></div></div><div class="gmnoprint" style="margin: 5px; z-index: 0; position: absolute; cursor: pointer; right: 0px; top: 0px;"><div class="gm-style-mtc" style="float: left;"><div draggable="false" title="Show street map" style="direction: ltr; overflow: hidden; text-align: center; position: relative; color: rgb(0, 0, 0); font-family: Roboto, Arial, sans-serif; -webkit-user-select: none; font-size: 11px; padding: 1px 6px; border-bottom-left-radius: 2px; border-top-left-radius: 2px; -webkit-background-clip: padding-box; border: 1px solid rgba(0, 0, 0, 0.14902); -webkit-box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px; box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px; min-width: 23px; font-weight: 500; background-color: rgb(255, 255, 255); background-clip: padding-box;">Map</div><div style="z-index: -1; padding-top: 2px; -webkit-background-clip: padding-box; border-width: 0px 1px 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-right-color: rgba(0, 0, 0, 0.14902); border-bottom-color: rgba(0, 0, 0, 0.14902); border-left-color: rgba(0, 0, 0, 0.14902); -webkit-box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px; box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px; position: absolute; left: 0px; top: 28px; text-align: left; display: none; background-color: white; background-clip: padding-box;"><div draggable="false" title="Show street map with terrain" style="color: rgb(0, 0, 0); font-family: Roboto, Arial, sans-serif; -webkit-user-select: none; font-size: 11px; padding: 3px 8px 3px 3px; direction: ltr; text-align: left; white-space: nowrap; background-color: rgb(255, 255, 255);"><span role="checkbox" style="box-sizing: border-box; position: relative; line-height: 0; font-size: 0px; margin: 0px 5px 0px 0px; display: inline-block; border: 1px solid rgb(198, 198, 198); border-top-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; border-bottom-left-radius: 1px; width: 13px; height: 13px; vertical-align: middle; background-color: rgb(255, 255, 255);"><div style="position: absolute; left: 1px; top: -2px; width: 13px; height: 11px; overflow: hidden; display: none;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://maps.gstatic.com/mapfiles/mv/imgs8.png" draggable="false" style="position: absolute; left: -52px; top: -44px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; width: 68px; height: 67px;"><noscript><img src="http://maps.gstatic.com/mapfiles/mv/imgs8.png" draggable="false" style="position: absolute; left: -52px; top: -44px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; width: 68px; height: 67px;"></noscript></div></span><label style="vertical-align: middle; cursor: pointer;">Terrain</label></div></div></div><div class="gm-style-mtc" style="float: left;"><div draggable="false" title="Show satellite imagery" style="direction: ltr; overflow: hidden; text-align: center; position: relative; color: rgb(86, 86, 86); font-family: Roboto, Arial, sans-serif; -webkit-user-select: none; font-size: 11px; padding: 1px 6px; border-bottom-right-radius: 2px; border-top-right-radius: 2px; -webkit-background-clip: padding-box; border-width: 1px 1px 1px 0px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-top-color: rgba(0, 0, 0, 0.14902); border-right-color: rgba(0, 0, 0, 0.14902); border-bottom-color: rgba(0, 0, 0, 0.14902); -webkit-box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px; box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px; min-width: 40px; background-color: rgb(255, 255, 255); background-clip: padding-box;">Satellite</div><div style="z-index: -1; padding-top: 2px; -webkit-background-clip: padding-box; border-width: 0px 1px 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-right-color: rgba(0, 0, 0, 0.14902); border-bottom-color: rgba(0, 0, 0, 0.14902); border-left-color: rgba(0, 0, 0, 0.14902); -webkit-box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px; box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px; position: absolute; right: 0px; top: 28px; text-align: left; display: none; background-color: white; background-clip: padding-box;"><div draggable="false" title="Zoom in to show 45 degree view" style="color: rgb(184, 184, 184); font-family: Roboto, Arial, sans-serif; -webkit-user-select: none; font-size: 11px; padding: 3px 8px 3px 3px; direction: ltr; text-align: left; white-space: nowrap; display: none; background-color: rgb(255, 255, 255);"><span role="checkbox" style="box-sizing: border-box; position: relative; line-height: 0; font-size: 0px; margin: 0px 5px 0px 0px; display: inline-block; border: 1px solid rgb(241, 241, 241); border-top-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; border-bottom-left-radius: 1px; width: 13px; height: 13px; vertical-align: middle; background-color: rgb(255, 255, 255);"><div style="position: absolute; left: 1px; top: -2px; width: 13px; height: 11px; overflow: hidden; display: none;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://maps.gstatic.com/mapfiles/mv/imgs8.png" draggable="false" style="position: absolute; left: -52px; top: -44px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; width: 68px; height: 67px;"><noscript><img src="http://maps.gstatic.com/mapfiles/mv/imgs8.png" draggable="false" style="position: absolute; left: -52px; top: -44px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; width: 68px; height: 67px;"></noscript></div></span><label style="vertical-align: middle; cursor: pointer;">45°</label></div><div draggable="false" title="Show imagery with street names" style="color: rgb(0, 0, 0); font-family: Roboto, Arial, sans-serif; -webkit-user-select: none; font-size: 11px; padding: 3px 8px 3px 3px; direction: ltr; text-align: left; white-space: nowrap; background-color: rgb(255, 255, 255);"><span role="checkbox" style="box-sizing: border-box; position: relative; line-height: 0; font-size: 0px; margin: 0px 5px 0px 0px; display: inline-block; border: 1px solid rgb(198, 198, 198); border-top-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; border-bottom-left-radius: 1px; width: 13px; height: 13px; vertical-align: middle; background-color: rgb(255, 255, 255);"><div style="position: absolute; left: 1px; top: -2px; width: 13px; height: 11px; overflow: hidden;"><img src="http://www.estanciads.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://maps.gstatic.com/mapfiles/mv/imgs8.png" draggable="false" style="position: absolute; left: -52px; top: -44px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; width: 68px; height: 67px;"><noscript><img src="http://maps.gstatic.com/mapfiles/mv/imgs8.png" draggable="false" style="position: absolute; left: -52px; top: -44px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; width: 68px; height: 67px;"></noscript></div></span><label style="vertical-align: middle; cursor: pointer;">Labels</label></div></div></div></div></div></div>
+
+<div id="directionsContent"></div>
+
+
+
+<!--
+
+=================================
+
+End Directions
+
+=================================
+
+-->
+
+
+
+</div></div>
+		</div>
+<div id="p_col1_bottom" class="part_text">
+<h2>Driving Directions</h2>
+<p>Follow these driving directions to reach our senior living community in Corona, CA.</p>
+<h4>Directions from North:</h4>
+<ul class="unstyled">
+<li>Depart CA-91 W and take ramp right for I-15 South towards San Diego</li>
+<li>Take exit 93, Ontario Avenue</li>
+<li>Turn right onto Ontario Avenue</li>
+<li>Turn left onto California Avenue (KFC on the corner)</li>
+<li>Just past the first light, Estancia Del Sol&#8217;s entrance is on your left</li>
+</ul>
+<h4>Directions from South:</h4>
+<ul class="unstyled">
+<li>Take I-15 N to exit 93, Ontario Avenue</li>
+<li>Turn left onto Ontario Avenue</li>
+<li>Turn left onto California Avenue (KFC on the corner)</li>
+<li>Just past the first light, Estancia Del Sol&#8217;s entrance is on your left</li>
+</ul>
+</div>
+		
+
+					</div>
+
+					
+
+
+				
+		</div><!-- #content -->
+
+	</div><!-- #primary -->
+
+
+
+	<div id="secondary" class="widget-area col-md-4" role="complementary">
+				<aside id="text-2" class="widget widget_text">			<div class="textwidget"><img src="/wp-content/uploads/leasing-office-now-open.jpg" alt="Senior living in Corona CA"/>
+<h3><a href="/estancia-del-sols-leasing-center-now-open/">Leasing Center Now Open</a></h3>
+<!--<p class="intro-text">Visit us today and see what SENIOR LIVING was meant to be.</p>-->
+<p>2489 California Avenue<br>
+Corona, CA 92881</p>
+<h2>951.340.3200</h2></div>
+		</aside><aside id="listcategorypostswidget-5" class="widget widget_listcategorypostswidget"><h2 class="widget-title">Recent News</h2><ul><li><a href="http://www.estanciads.com/estancia-del-sol-job-fair/" title="Estancia Del Sol Job Fair">Estancia Del Sol Job Fair</a>  </li><li><a href="http://www.estanciads.com/transforming-eyes/" title="Estancia Del Sol transforming before your eyes!">Estancia Del Sol transforming before your eyes!</a>  </li><li><a href="http://www.estanciads.com/estancia-del-sols-leasing-center-now-open/" title="Estancia Del Sol&#8217;s Leasing Center is Now Open">Estancia Del Sol&#8217;s Leasing Center is Now Open</a>  </li><li><a href="http://www.estanciads.com/corona-welcomes-estancia-del-sol/" title="Corona Welcomes WESTliving&#8217;s Newest Senior Community: Estancia Del Sol">Corona Welcomes WESTliving&#8217;s Newest Senior Community: Estancia Del Sol</a>  </li></ul><a href="http://www.estanciads.com/category/estancia-del-sol/" > </a></aside>	</div><!-- #secondary -->
+
+			</div>
+		</div>
+	</div><!-- #main -->
+
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="container">
+<div class="row">
+			<div class="col-md-3">
+				<div id="text-14" class="widget widget_text"><h2 class="widgettitle">Living Options</h2>			<div class="textwidget"><p>
+	<a href="/senior-living-options/">Senior Living Options</a><br>
+	<a href="/senior-living-options/assisted-living/">Assisted Living</a><br>
+	<a href="/senior-living-options/independent-living/">Independent Living</a><br>
+	<a href="/senior-living-options/memory-care/">Memory Care</a><br>
+	<a href="/senior-living-options/respite-care/">Respite Care</a><br><br>
+	<a href="/floor-plans/">Estancia Del Sol Floor Plans</a>
+</p></div>
+		</div>            </div>
+            <div class="col-md-3">
+				<div id="text-16" class="widget widget_text"><h2 class="widgettitle">Services &amp; Amenities</h2>			<div class="textwidget"><p>
+	<a href="/senior-care-services-amenities/">Senior Care Services &amp; Amenities</a><br>
+	<a href="/senior-care-services-amenities/retirement-community-activities/">Retirement Community Activities</a><br>
+	<a href="/senior-care-services-amenities/concierge/">Concierge</a><br>
+	<a href="/senior-care-services-amenities/dining/">Restaurant Dining or Casual Bistro</a><br>
+	<a href="/senior-care-services-amenities/salon/">Salon</a><br>
+	<a href="/senior-care-services-amenities/transportation/">Transportation</a><br>
+	<a href="/senior-care-services-amenities/senior-wellness/">Senior Wellness</a><br>
+	<a href=/senior-care-services-amenities/westfitness-senior-fitness/">WESTfitness</a>
+</p></div>
+		</div>			</div>
+            <div class="col-md-3">
+				<div id="text-15" class="widget widget_text"><h2 class="widgettitle">About Us</h2>			<div class="textwidget"><p>
+	<a href="/about-us/">About Estancia Del Sol</a><br>
+	<a href="/about-us/maps-directions/">Maps &amp; Directions</a><br>
+	<a href="/about-us/meet-our-team/">Meet Our Team</a><br>
+	<a href="/events/">Events</a><br>
+	<a href="/about-us/senior-resources/">Senior Resources</a><br>
+	<a href="/about-us/local-attractions/">Local Attractions</a><br>
+	<a href="/about-us/about-westliving/">About WESTliving</a><br><br>
+	<a href="/news/">Estancia Del Sol News</a>
+</p></div>
+		</div>			</div>
+            <div class="col-md-3">
+				<div id="text-12" class="widget widget_text"><h2 class="widgettitle">Other Communities</h2>			<div class="textwidget"><h4>Arizona</h4>
+<a href="http://www.mcdowellvillage.com/" target="_blank">McDowell Village</a><br>
+<h4>California</h4>
+<a href="http://www.commonsatelkgrove.com/" target="_blank">The Commons at Elk Grove</a><br>
+<a href="http://www.commonsonthornton.com/" target="_blank">The Commons on Thornton</a><br>
+<a href="http://www.commonsatunionranch.com/" target="_blank">The Commons at Union Ranch</a><br>
+<a href="http://www.dalecommons.com/" target="_blank">Dale Commons</a><br>
+<a href="http://www.thereserveatthousandoaks.com/" target="_blank">The Reserve at Thousand Oaks</a><br>
+<h4>Washington</h4>
+<a href="http://www.thebellettini.com/" target="_blank">The Bellettini</a>
+
+<p>&nbsp;</p></div>
+		</div>				
+				
+				<!--<div class="footer-text">
+					
+					<p>&nbsp;</p>
+				</div>
+				<div class="clear"></div>-->
+				<div id="toTop"><i class="fa fa-chevron-up"></i></div>
+			</div>
+</div>
+<div class="row">
+            <div class="col-md-12" id="footer-address">
+			Estancia Del Sol&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;2489 California Avenue, Corona, CA 92881&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;951.340.3200<br>
+					© 2014 WESTliving<!--&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.westliving.net/privacy-policy">WESTliving Privacy Policy</a>-->&nbsp;&nbsp;&nbsp;<img src="/wp-content/uploads/equal_housing.png" alt="" />
+		</div>
+</div>
+		</div>
+	</footer><!-- #colophon -->
+    <div id="global-footer">
+    	<div class="container">
+        	<div class="row">
+            	<div class="col-md-12">
+                    <span id="global-footer-links">
+                		<a href="http://www.westliving.net" class="btn" target="_blank">WESTliving.net</a>
+                        <a href="http://www.westliving.net/careers/?cat=10" class="btn" target="_blank">WESTliving Careers</a>
+                        <a href="http://www.westliving.net/news" class="btn" target="_blank">WESTliving News</a>
+                    </span>
+                </div>
+            </div>
+    	</div>
+    </div><!-- #global-footer -->
+</div><!-- .page-wrapper -->
+
+<script type='text/javascript' src='http://www.estanciads.com/wp-content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.5'></script>
+<script type='text/javascript' src='http://www.estanciads.com/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.5'></script>
+<script type='text/javascript' src='http://www.estanciads.com/wp-content/themes/duena/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='http://www.estanciads.com/wp-content/themes/duena/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://www.estanciads.com/wp-content/themes/duena/js/superfish.js?ver=1.4.8'></script>
+<script type='text/javascript' src='http://www.estanciads.com/wp-content/themes/duena/js/jquery.mobilemenu.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.estanciads.com/wp-content/themes/duena/js/sfmenu-touch.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.estanciads.com/wp-content/themes/duena/js/jquery.flexslider.js?ver=2.1'></script>
+<script type='text/javascript' src='http://www.estanciads.com/wp-content/themes/duena/js/jquery.magnific-popup.js?ver=0.8.9'></script>
+<script type='text/javascript' src='http://www.estanciads.com/wp-content/themes/duena/js/bootstrap.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.estanciads.com/wp-content/themes/duena/js/custom.js?ver=1.0'></script>
+		<script type="text/javascript">
+			// initialise plugins
+			jQuery(function(){
+				// main navigation init
+				jQuery('.navbar_inner > ul').superfish({
+					delay:       1000, 		// one second delay on mouseout 
+					animation:   {opacity:"show", height:"show"}, // fade-in and slide-down animation
+					speed:       'fast',  // faster animation speed 
+					autoArrows:  true,   // generation of arrow mark-up (for submenu)
+					dropShadows: false
+				});
+				jQuery('.navbar_inner > div > ul').superfish({
+					delay:       1000, 		// one second delay on mouseout 
+					animation:   {opacity:"show", height:"show"}, // fade-in and slide-down animation
+					speed:       'fast',  // faster animation speed 
+					autoArrows:  true,   // generation of arrow mark-up (for submenu)
+					dropShadows: false
+
+				});
+
+			});
+
+			jQuery(function(){
+			  var ismobile = navigator.userAgent.match(/(iPad)|(iPhone)|(iPod)|(android)|(webOS)/i)
+			  if(ismobile){
+			  	jQuery('.navbar_inner > ul').sftouchscreen();
+			  	jQuery('.navbar_inner > div > ul').sftouchscreen();
+			  }
+
+			});
+
+		</script>
+
+		<!--[if (gt IE 9)|!(IE)]><!-->
+		<script type="text/javascript">
+
+			jQuery(function(){
+
+				jQuery('.navbar_inner > ul').mobileMenu();
+			  	jQuery('.navbar_inner > div > ul').mobileMenu();
+
+			})
+
+		</script>
+
+		<!--<![endif]-->
+		<script>
+jQuery(document).ready(function($){
+
+	/*Add Current Page / Parent Indicator on Menu */
+	var currentPageVar = $("#breadcrumbs > span > span:nth-child(2)").text();
+	if(currentPageVar == "News") {
+		$(".page-item-14").addClass("current_page_item");
+	} else if(currentPageVar == "Careers") {
+		$(".page-item-16").addClass("current_page_item");
+	} else if(currentPageVar == "About Us") {
+		$(".page-item-12").addClass("current_page_item");
+	}
+	
+});
+</script>
+
+<!-- Begin Lead InSite Analytics -->
+<script type="text/javascript" src="/glance.js"></script>
+<script type="text/javascript"> var sc_project=9398918; var sc_invisible=1; var sc_security="530d3bc1"; var sc_https=1;
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www."); document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+ "statcounter.com/counter/counter.js'></"+"script>"); </script>
+<noscript><div class="statcounter"><a title="site stats" href="http://statcounter.com/free-web-stats/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/9398918/0/530d3bc1/1/" alt="site stats"></a></div></noscript>
+<!-- End Lead InSite Analytics -->
+
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk: enhanced
+Database Caching 5/39 queries in 0.849 seconds using disk
+
+ Served from: www.estanciads.com @ 2014-11-13 13:29:42 by W3 Total Cache -->

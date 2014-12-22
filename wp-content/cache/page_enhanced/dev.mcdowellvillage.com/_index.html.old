@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<head><link rel="stylesheet" type="text/css" href="http://dev.mcdowellvillage.com/wp-content/cache/minify/000000/c6c61/default.include.530684.css" media="all" />
+<script type="text/javascript" src="http://dev.mcdowellvillage.com/wp-content/cache/minify/000000/c6c61/default.include.8cf5e7.js"></script>
+
+
+<meta charset="UTF-8" />
+
+<title>Corona Senior Living - Estancia Del Sol, Corona CA</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="format-detection" content="telephone=no" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+<link rel="pingback" href="http://dev.mcdowellvillage.com/xmlrpc.php" />
+
+
+<link rel="icon" href="http://www.estanciads.com/wp-content/uploads/2014/08/favicon.gif" type="image/x-icon" />
+
+
+<!--[if lt IE 9]>
+
+<script src="http://dev.mcdowellvillage.com/wp-content/themes/duena/js/html5.js" type="text/javascript"></script>
+
+<![endif]-->
+
+<!--[if (gt IE 9)|!(IE)]>
+
+<script src="http://dev.mcdowellvillage.com/wp-content/themes/duena/js/jquery.mobile.customized.min.js" type="text/javascript"></script>
+
+<![endif]-->
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta name="description" content="Estancia Del Sol, the newest Corona senior living community brought to you by WESTliving."/>
+<link rel="canonical" href="http://dev.mcdowellvillage.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Corona Senior Living - Estancia Del Sol, Corona CA" />
+<meta property="og:description" content="Estancia Del Sol, the newest Corona senior living community brought to you by WESTliving." />
+<meta property="og:url" content="http://dev.mcdowellvillage.com/" />
+<meta property="og:site_name" content="McDowell Village" />
+<meta property="og:image" content="http://www.estanciads.com/wp-content/uploads/eds-jobfair-thumb.jpg" />
+<meta name="google-site-verification" content="zCZ9JSkEweujL2EQEBXVoDvtJx63jIndYOBtUKsW_fE" />
+<script type="application/ld+json">{ "@context": "http://schema.org", "@type": "WebSite", "url": "http://dev.mcdowellvillage.com/", "potentialAction": { "@type": "SearchAction", "target": "http://dev.mcdowellvillage.com/?s={search_term}", "query-input": "required name=search_term" } }</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="McDowell Village &raquo; Feed" href="http://dev.mcdowellvillage.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="McDowell Village &raquo; Comments Feed" href="http://dev.mcdowellvillage.com/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="McDowell Village &raquo; iCal Feed" href="http://dev.mcdowellvillage.com/events/?ical=1" />
+
+
+
+
+
+
+<style type='text/css'>
+
+    a,
+    .searchform .screen-reader-text,
+    .post_meta i,
+    .author_bio_sidebar .social_box a,
+    .post-title a:hover,
+    .post-footer i,
+    .page_nav_wrap .post_nav ul li .current,
+    .page_nav_wrap .post_nav ul li a:hover {
+		color: #4faca7;
+	}
+	.post_type_label,
+	.flex-direction-nav a,
+	#content .featured_badge,
+	.author_bio_sidebar .social_box,
+	.flex-control-paging li a.flex-active,
+	.flex-control-paging li a:hover,
+	#toTop,
+	.post-footer a,
+	.navbar_inner > div > ul ul, 
+	.navbar_inner > ul ul,
+	.btn.btn-primary,
+	input[type='submit'],
+	input[type='reset'] {
+		background-color: #4faca7;
+	}
+	.site-info,
+	.widget,
+	#slider-wrapper .flexslider,
+	.navbar_inner > div > ul > li > a,
+	.navbar_inner > div > ul > li > a:hover, 
+	.navbar_inner > div > ul > li.sfHover > a, 
+	.navbar_inner > div > ul > li.current-menu-item > a, 
+	.navbar_inner > div > ul > li.current_page_item > a,
+	.navbar_inner > ul > li > a,
+	.navbar_inner > ul > li > a:hover, 
+	.navbar_inner > ul > li.sfHover > a, 
+	.navbar_inner > ul > li.current-menu-item > a, 
+	.navbar_inner > ul > li.current_page_item > a,
+	.breadcrumb,
+	#comments,
+	.post-footer a,
+	.author-info {
+		border-color: #4faca7;
+	}
+	a:hover,
+	a:focus {
+		color: #206b6e;
+	}
+
+	.btn.btn-primary:hover,
+	input[type='submit']:hover,
+	input[type='reset']:hover,
+	.slider-caption .btn.btn-primary:hover {
+		background-color: #206b6e;
+	}
+
+	textarea:focus,
+	input[type='text']:focus,
+	input[type='password']:focus,
+	input[type='datetime']:focus,
+	input[type='datetime-local']:focus,
+	input[type='date']:focus,
+	input[type='month']:focus,
+	input[type='time']:focus,
+	input[type='week']:focus,
+	input[type='number']:focus,
+	input[type='email']:focus,
+	input[type='url']:focus,
+	input[type='search']:focus,
+	input[type='tel']:focus,
+	input[type='color']:focus,
+	.uneditable-input:focus {
+		border-color: #4faca7;
+		box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 2px #4faca7;
+	}
+	
+</style>
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='duena_ie-css'  href='http://dev.mcdowellvillage.com/wp-content/themes/duena/css/ie.css?ver=4.0' type='text/css' media='all' />
+<![endif]-->
+
+
+<script type='text/javascript' src='http://dev.mcdowellvillage.com/wp-content/plugins/responsive-lightbox/assets/prettyphoto/js/jquery.prettyPhoto.js?ver=4.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rlArgs = {"script":"prettyphoto","selector":"lightbox","custom_events":"","activeGalleries":"1","animationSpeed":"normal","slideshow":"0","slideshowDelay":"5000","slideshowAutoplay":"0","opacity":"0.75","showTitle":"1","allowResize":"1","allowExpand":"0","width":"1080","height":"720","separator":"\/","theme":"pp_default","horizontalPadding":"20","hideFlash":"0","wmode":"opaque","videoAutoplay":"0","modal":"0","deeplinking":"0","overlayGallery":"1","keyboardShortcuts":"1","social":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dev.mcdowellvillage.com/wp-content/plugins/responsive-lightbox/js/front.js?ver=4.0'></script>
+<script type='text/javascript' src='http://dev.mcdowellvillage.com/wp-content/plugins/wptextresizecontrols/text.js?ver=4.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://dev.mcdowellvillage.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dev.mcdowellvillage.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0" />
+<link rel='shortlink' href='http://dev.mcdowellvillage.com/' />
+<style type="text/css">	.ssba {
+											
+											
+											
+											
+										}
+										.ssba img		
+										{ 	
+											width: 44px !important;
+											padding: 4px;
+											border:  0;
+											box-shadow: none !important;
+											display: inline !important;
+											vertical-align: middle;
+										}
+										.ssba, .ssba a		
+										{
+											text-decoration:none;
+											background: none;
+											
+											font-size: 	20px;
+											
+											font-weight: normal;
+										}</style><script type="text/javascript">var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-55845292-1"]);_gaq.push(["_trackPageview"]);(function(){var ga=document.createElement("script");ga.type="text/javascript";ga.async=true;ga.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga,s);})();</script><script>window.jQuery || document.write('<script src="/wp-includes/js/jquery/jquery.js"><\/script>')</script>
+
+<!-- CORPORATE LEAD TRACKING-->
+<!-- Start: Copyright 2013 Lead InSite Inc. Patent Pending -->
+<script type="text/javascript" src="http://leadinsiteportal.com/heatmap/userTrack/tracker.js"></script>
+<!-- End: Copyright 2013 Lead InSite Inc. Patent Pending -->
+
+</head>
+
+
+
+<body class="home page page-id-2 page-template-default tribe-bar-is-disabled wptextresize group-blog tribe-theme-duena page-template-page-php">
+<div id="subsite-global-header">
+	<div class="container">
+    	<div class="row">
+            <div class="col-md-12" id="westliving-subsite-links">
+		<a href="/request-info" class="btn" id="header-request-btn">Request More Information</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="page-wrapper">
+
+	
+	<header id="header" role="banner">
+
+		<div class="container clearfix">
+
+			<div class="logo">
+
+			
+					<a href="http://dev.mcdowellvillage.com/" title="McDowell Village" rel="home"><img src="http://www.estanciads.com/wp-content/uploads/estancia-del-sol-logo.png" alt="McDowell Village"></a>
+
+			
+				<p class="site-description">Scottsdale Senior Living</p>
+
+			</div>
+
+			  
+
+	          <div id="top-search">
+
+                    <!--<div class="header-phone">800.571.8039</div>-->
+<div id="phone-resizer-wrapper" class="header-phone"><span>951.340.3200</span><span class="text-resizer-wrapper">	<div title='Resize Body Text' class='wpTextResizeControls'>
+	<a class='increaseFont' title='Increase Font Size'>A+</a><a class='resetFont' title='Reset Font Size'>A</a><a class='decreaseFont' title='Decrease Font Size'>A-</a></div>
+	</span></div>
+			
+	            <form method="get" action="http://dev.mcdowellvillage.com/">
+
+	              <input type="text" name="s"  class="input-search" /><input type="submit" value="" id="submit">
+
+	            </form>
+
+	          </div>  
+
+	        
+	        <div class="clear"></div>
+
+			<nav id="site-navigation" class="main-nav" role="navigation">
+
+				<div class="navbar_inner">
+
+				<ul id="topnav" class="sf-menu"><li id="menu-item-290" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-290 active"><a href="/">Home</a></li>
+<li id="menu-item-291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-291"><a href="http://dev.mcdowellvillage.com/senior-living-options/">Living Options</a>
+<ul class="sub-menu">
+	<li id="menu-item-292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-292"><a href="http://dev.mcdowellvillage.com/senior-living-options/assisted-living/">Assisted Living</a></li>
+	<li id="menu-item-294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-294"><a href="http://dev.mcdowellvillage.com/senior-living-options/independent-living/">Independent Living</a></li>
+	<li id="menu-item-295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-295"><a href="http://dev.mcdowellvillage.com/senior-living-options/memory-care/">Memory Care</a></li>
+	<li id="menu-item-296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-296"><a href="http://dev.mcdowellvillage.com/senior-living-options/respite-care/">Respite Care</a></li>
+</ul>
+</li>
+<li id="menu-item-297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-297"><a href="http://dev.mcdowellvillage.com/senior-care-services-amenities/">Services &#038; Amenities</a>
+<ul class="sub-menu">
+	<li id="menu-item-298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a href="http://dev.mcdowellvillage.com/senior-care-services-amenities/retirement-community-activities/">Community Activities</a></li>
+	<li id="menu-item-299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299"><a href="http://dev.mcdowellvillage.com/senior-care-services-amenities/concierge/">Concierge</a></li>
+	<li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-300"><a href="http://dev.mcdowellvillage.com/senior-care-services-amenities/dining/">Restaurant Dining or Casual Bistro</a></li>
+	<li id="menu-item-302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-302"><a href="http://dev.mcdowellvillage.com/senior-care-services-amenities/salon/">Salon</a></li>
+	<li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="http://dev.mcdowellvillage.com/senior-care-services-amenities/transportation/">Transportation</a></li>
+	<li id="menu-item-304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-304"><a href="http://dev.mcdowellvillage.com/senior-care-services-amenities/senior-wellness/">Senior Wellness</a></li>
+	<li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-305"><a href="http://dev.mcdowellvillage.com/senior-care-services-amenities/westfitness-senior-fitness/">WESTfitness</a></li>
+</ul>
+</li>
+<li id="menu-item-330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-330"><a href="http://dev.mcdowellvillage.com/floor-plans/">Floor Plans</a></li>
+<li id="menu-item-341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-341"><a href="http://dev.mcdowellvillage.com/news/">News</a></li>
+<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-306"><a href="http://dev.mcdowellvillage.com/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a href="http://dev.mcdowellvillage.com/about-us/maps-directions/">Maps &#038; Directions</a></li>
+	<li id="menu-item-308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-308"><a href="http://dev.mcdowellvillage.com/about-us/meet-our-team/">Meet Our Team</a></li>
+	<li id="menu-item-385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-385"><a href="/events">Events</a></li>
+	<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-310"><a href="http://dev.mcdowellvillage.com/about-us/senior-resources/">Senior Resources</a></li>
+	<li id="menu-item-311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311"><a href="http://dev.mcdowellvillage.com/about-us/local-attractions/">Local Attractions</a></li>
+	<li id="menu-item-622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-622"><a href="http://www.westliving.net/careers/?cat=10">WESTliving Careers</a></li>
+	<li id="menu-item-313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-313"><a href="http://dev.mcdowellvillage.com/about-us/about-westliving/">About WESTliving</a></li>
+</ul>
+</li>
+<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a href="http://dev.mcdowellvillage.com/contact/">Contact</a></li>
+</ul>
+				</div>
+
+			</nav><!-- #site-navigation -->
+
+		</div>
+
+	</header><!-- #masthead -->
+    
+
+	
+	<section id="slider-wrapper">
+
+		<div class="container">
+
+	    	    <!-- Hero Mobile Placeholder ----------------------------- Begin -->
+<div class="mobile-hero-image visible-xs">
+	<img src="/wp-content/uploads/2014/08/huge-home.slide1_.jpg" />
+</div>
+<!-- Hero Mobile Placeholder ----------------------------- End -->
+<div class="flexslider hidden-xs">
+    <ul class="slides">
+                <li>
+             
+                <img src="http://dev.mcdowellvillage.com/wp-content/uploads/2014/08/huge-home.slide1_.jpg" alt="<strong>Be</strong> Welcomed" />
+             
+                    </li>
+       
+ 
+                <li>
+             
+                <img src="http://dev.mcdowellvillage.com/wp-content/uploads/2014/08/huge-home.slide2_.jpg" alt="<strong>Be</strong> Comfortable" />
+             
+                    </li>
+       
+ 
+                <li>
+             
+                <img src="http://dev.mcdowellvillage.com/wp-content/uploads/2014/08/huge-home.slide3_.jpg" alt="<strong>Be</strong> Spoiled" />
+             
+                    </li>
+       
+ 
+        </ul>
+</div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    jQuery(window).load(function() {
+        jQuery('.flexslider').flexslider({
+            animation: "fade",
+            direction: "horizontal",
+            slideshow: true,
+            controlNav: true,
+            directionNav: true        }); 
+    });
+/* ]]> */
+</script>
+    
+		</div>
+
+	</section><!--#slider--> 
+
+<!--#cta-->
+  	
+	<div id="main" class="site-main">
+
+		<div class="container">
+
+		<p id="breadcrumbs">	You Are Here:
+
+		<span prefix="v: http://rdf.data-vocabulary.org/#">
+			<span typeof="v:Breadcrumb"><span class="breadcrumb_last" property="v:title">Home</span></span>
+		</span></p>
+			<div class="row">
+    <div class="col-md-8">
+        <h1>Estancia Del Sol</h1>
+    </div>
+</div>
+<div class="row">
+
+	<div id="primary" class="col-md-8 right">
+
+		<div id="content" class="site-content" role="main">
+
+				
+					<div class="page_wrap">
+						
+						<!--<h1 class="entry-title"></h1>-->
+
+
+						<h2>Corona Senior Living</h2>
+<p class="intro-text">Welcome to world-class service. Welcome to comfortable, elegant surroundings. Welcome to what senior living is meant to be in Corona, CA – WESTliving style.</p>
+<p>Looking for a welcoming senior living community with exceptional service in sunny, southern California?  You&#8217;re right where you belong: <strong>Estancia Del Sol</strong> in Corona, California.</p>
+<p>Here at Estancia Del Sol, we&#8217;re dedicated to offering a true sense of belonging to seniors and their families. It&#8217;s a feeling you&#8217;ll notice the moment you&#8217;re invited to &#8220;<em>make yourself at home</em>&#8221; and continues through every thoughtful, personal detail.</p>
+<p>As part of the WESTliving family, we understand the importance of world-class service. In fact, we even have a name for it: WESTclass service.  We hire carefully and train extensively.  The result?  Team Members who are empowered to make a meaningful difference in the lives of those we serve.  Team Members inspired to anticipate your want and desire even before you may realize it!</p>
+<p>From independent living, assisted living, and memory care, the WESTliving experience creates and encourages a sense of belonging.  Our culture of hospitality in senior living also promotes privacy, dignity and a sense of empowerment.  A variety of activities including gardening, art classes, local tours and tai chi await here at Estancia Del Sol.  Just a quick drive from Los Angeles and the Cleveland National Forest.</p>
+<p>Come see for yourself how the newest Corona senior living community can become your warm, welcoming place to call home. We&#8217;d love to show you around and allow you to experience for yourself a true sense of belonging!  We are here to serve!</p>
+<hr />
+<p><a href="/event/job-fair/"><img src="http://dev.mcdowellvillage.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.estanciads.com/wp-content/uploads/eds-jobfair-thumb.jpg" alt="Estancia Del Sol Job Fair" class="alignnone size-medium wp-image-634" /><noscript><img src="http://www.estanciads.com/wp-content/uploads/eds-jobfair-thumb.jpg" alt="Estancia Del Sol Job Fair" class="alignnone size-medium wp-image-634" /></noscript></a><br />
+<a href="/event/job-fair/">Click for more information »</a></p>
+
+		
+
+					</div>
+
+					
+
+
+				
+		</div><!-- #content -->
+
+	</div><!-- #primary -->
+
+
+
+	<div id="secondary" class="widget-area col-md-4" role="complementary">
+				<aside id="text-11" class="widget widget_text"><h2 class="widget-title">Get More Information</h2>			<div class="textwidget"><script type='text/javascript' src='http://www.westliving.net/wp-content/themes/duena/js/jquery.wl-formbuilder.js?ver=1.1'></script>
+<script>
+
+jQuery(document).ready(function($){
+	
+	$('body').wl_formBuilder({
+		formTitle: 'Contact Us',
+		fields: {
+			1: 'name',
+			2: 'email',
+			3: 'phone',
+			4: 'message'
+		},
+		submitText: 'Submit',
+		formLocation: 'Right Rail',
+		thankyouPage: '/redesign/thank-you'
+	});
+	
+});
+
+</script>
+
+<p>Please complete the form below. Mandatory fields marked <span class='required-label'>*</span></p>
+
+<div class="formbuilder-container"></div></div>
+		</aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><img src="/wp-content/uploads/leasing-office-now-open.jpg" alt="Senior living in Corona CA"/>
+<h3><a href="/estancia-del-sols-leasing-center-now-open/">Leasing Center Now Open</a></h3>
+<!--<p class="intro-text">Visit us today and see what SENIOR LIVING was meant to be.</p>-->
+<p>2489 California Avenue<br>
+Corona, CA 92881</p>
+<h2>951.340.3200</h2></div>
+		</aside>	</div><!-- #secondary -->
+
+			</div>
+		</div>
+	</div><!-- #main -->
+
+<div id="bottom-info-cta">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div id="text-24" class="widget widget_text"><h2 class="widgettitle">Download Our Brochure</h2>			<div class="textwidget"><div class="row">
+	<div class="col-md-6">
+    	<a href="/wp-content/uploads/EDS-Brochure-web.pdf" target="_blank"><img src="/wp-content/uploads/EDS-Brochure-thumb.jpg" alt="Download Our Brochure" title="Download Our Brochure" /></a>
+    </div>
+	<div class="col-md-6">
+    	<p class="intro-text">World-class service, comfortable, elegant surroundings - learn more about what Corona Senior Living is meant to be.</p>
+        <p><a href="/wp-content/uploads/EDS-Brochure-web.pdf" class="btn btn-large" target="_blank">Download Now&nbsp;&nbsp;<i class="fa fa-download"></i></a></p>
+    </div>
+</div></div>
+		</div>            </div>
+            <div class="col-md-4">
+                <div id="text-23" class="widget widget_text">			<div class="textwidget"><iframe width="560" height="315" src="//www.youtube.com/embed/hDaIVWQu9uQ" frameborder="0" allowfullscreen></iframe></div>
+		</div>            </div>
+        </div>
+    </div>
+</div>
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="container">
+<div class="row">
+			<div class="col-md-3">
+				<div id="text-14" class="widget widget_text"><h2 class="widgettitle">Living Options</h2>			<div class="textwidget"><p>
+	<a href="/senior-living-options/">Senior Living Options</a><br>
+	<a href="/senior-living-options/assisted-living/">Assisted Living</a><br>
+	<a href="/senior-living-options/independent-living/">Independent Living</a><br>
+	<a href="/senior-living-options/memory-care/">Memory Care</a><br>
+	<a href="/senior-living-options/respite-care/">Respite Care</a><br><br>
+	<a href="/floor-plans/">Estancia Del Sol Floor Plans</a>
+</p></div>
+		</div>            </div>
+            <div class="col-md-3">
+				<div id="text-16" class="widget widget_text"><h2 class="widgettitle">Services &amp; Amenities</h2>			<div class="textwidget"><p>
+	<a href="/senior-care-services-amenities/">Senior Care Services &amp; Amenities</a><br>
+	<a href="/senior-care-services-amenities/retirement-community-activities/">Retirement Community Activities</a><br>
+	<a href="/senior-care-services-amenities/concierge/">Concierge</a><br>
+	<a href="/senior-care-services-amenities/dining/">Restaurant Dining or Casual Bistro</a><br>
+	<a href="/senior-care-services-amenities/salon/">Salon</a><br>
+	<a href="/senior-care-services-amenities/transportation/">Transportation</a><br>
+	<a href="/senior-care-services-amenities/senior-wellness/">Senior Wellness</a><br>
+	<a href=/senior-care-services-amenities/westfitness-senior-fitness/">WESTfitness</a>
+</p></div>
+		</div>			</div>
+            <div class="col-md-3">
+				<div id="text-15" class="widget widget_text"><h2 class="widgettitle">About Us</h2>			<div class="textwidget"><p>
+	<a href="/about-us/">About Estancia Del Sol</a><br>
+	<a href="/about-us/maps-directions/">Maps &amp; Directions</a><br>
+	<a href="/about-us/meet-our-team/">Meet Our Team</a><br>
+	<a href="/events/">Events</a><br>
+	<a href="/about-us/senior-resources/">Senior Resources</a><br>
+	<a href="/about-us/local-attractions/">Local Attractions</a><br>
+	<a href="/about-us/about-westliving/">About WESTliving</a><br><br>
+	<a href="/news/">Estancia Del Sol News</a>
+</p></div>
+		</div>			</div>
+            <div class="col-md-3">
+				<div id="text-12" class="widget widget_text"><h2 class="widgettitle">Other Communities</h2>			<div class="textwidget"><h4>Arizona</h4>
+<a href="http://www.mcdowellvillage.com/" target="_blank">McDowell Village</a><br>
+<h4>California</h4>
+<a href="http://www.commonsatelkgrove.com/" target="_blank">The Commons at Elk Grove</a><br>
+<a href="http://www.commonsonthornton.com/" target="_blank">The Commons on Thornton</a><br>
+<a href="http://www.commonsatunionranch.com/" target="_blank">The Commons at Union Ranch</a><br>
+<a href="http://www.dalecommons.com/" target="_blank">Dale Commons</a><br>
+<a href="http://www.thereserveatthousandoaks.com/" target="_blank">The Reserve at Thousand Oaks</a><br>
+<h4>Washington</h4>
+<a href="http://www.thebellettini.com/" target="_blank">The Bellettini</a>
+
+<p>&nbsp;</p></div>
+		</div>				
+				
+				<!--<div class="footer-text">
+					
+					<p>&nbsp;</p>
+				</div>
+				<div class="clear"></div>-->
+				<div id="toTop"><i class="fa fa-chevron-up"></i></div>
+			</div>
+</div>
+<div class="row">
+            <div class="col-md-12" id="footer-address">
+			Estancia Del Sol&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;2489 California Avenue, Corona, CA 92881&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;951.340.3200<br>
+					© 2014 WESTliving<!--&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.westliving.net/privacy-policy">WESTliving Privacy Policy</a>-->&nbsp;&nbsp;&nbsp;<img src="/wp-content/uploads/equal_housing.png" alt="" />
+		</div>
+</div>
+		</div>
+	</footer><!-- #colophon -->
+    <div id="global-footer">
+    	<div class="container">
+        	<div class="row">
+            	<div class="col-md-12">
+                    <span id="global-footer-links">
+                		<a href="http://www.westliving.net" class="btn" target="_blank">WESTliving.net</a>
+                        <a href="http://www.westliving.net/careers/?cat=10" class="btn" target="_blank">WESTliving Careers</a>
+                        <a href="http://www.westliving.net/news" class="btn" target="_blank">WESTliving News</a>
+                    </span>
+                </div>
+            </div>
+    	</div>
+    </div><!-- #global-footer -->
+</div><!-- .page-wrapper -->
+
+<script type='text/javascript' src='http://dev.mcdowellvillage.com/wp-content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.5'></script>
+<script type='text/javascript' src='http://dev.mcdowellvillage.com/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.5'></script>
+<script type='text/javascript' src='http://dev.mcdowellvillage.com/wp-content/themes/duena/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='http://dev.mcdowellvillage.com/wp-content/themes/duena/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://dev.mcdowellvillage.com/wp-content/themes/duena/js/superfish.js?ver=1.4.8'></script>
+<script type='text/javascript' src='http://dev.mcdowellvillage.com/wp-content/themes/duena/js/jquery.mobilemenu.js?ver=1.0'></script>
+<script type='text/javascript' src='http://dev.mcdowellvillage.com/wp-content/themes/duena/js/sfmenu-touch.js?ver=1.0'></script>
+<script type='text/javascript' src='http://dev.mcdowellvillage.com/wp-content/themes/duena/js/jquery.flexslider.js?ver=2.1'></script>
+<script type='text/javascript' src='http://dev.mcdowellvillage.com/wp-content/themes/duena/js/jquery.magnific-popup.js?ver=0.8.9'></script>
+<script type='text/javascript' src='http://dev.mcdowellvillage.com/wp-content/themes/duena/js/bootstrap.js?ver=1.0'></script>
+<script type='text/javascript' src='http://dev.mcdowellvillage.com/wp-content/themes/duena/js/custom.js?ver=1.0'></script>
+		<script type="text/javascript">
+			// initialise plugins
+			jQuery(function(){
+				// main navigation init
+				jQuery('.navbar_inner > ul').superfish({
+					delay:       1000, 		// one second delay on mouseout 
+					animation:   {opacity:"show", height:"show"}, // fade-in and slide-down animation
+					speed:       'fast',  // faster animation speed 
+					autoArrows:  true,   // generation of arrow mark-up (for submenu)
+					dropShadows: false
+				});
+				jQuery('.navbar_inner > div > ul').superfish({
+					delay:       1000, 		// one second delay on mouseout 
+					animation:   {opacity:"show", height:"show"}, // fade-in and slide-down animation
+					speed:       'fast',  // faster animation speed 
+					autoArrows:  true,   // generation of arrow mark-up (for submenu)
+					dropShadows: false
+
+				});
+
+			});
+
+			jQuery(function(){
+			  var ismobile = navigator.userAgent.match(/(iPad)|(iPhone)|(iPod)|(android)|(webOS)/i)
+			  if(ismobile){
+			  	jQuery('.navbar_inner > ul').sftouchscreen();
+			  	jQuery('.navbar_inner > div > ul').sftouchscreen();
+			  }
+
+			});
+
+		</script>
+
+		<!--[if (gt IE 9)|!(IE)]><!-->
+		<script type="text/javascript">
+
+			jQuery(function(){
+
+				jQuery('.navbar_inner > ul').mobileMenu();
+			  	jQuery('.navbar_inner > div > ul').mobileMenu();
+
+			})
+
+		</script>
+
+		<!--<![endif]-->
+		<script>
+jQuery(document).ready(function($){
+
+	/*Add Current Page / Parent Indicator on Menu */
+	var currentPageVar = $("#breadcrumbs > span > span:nth-child(2)").text();
+	if(currentPageVar == "News") {
+		$(".page-item-14").addClass("current_page_item");
+	} else if(currentPageVar == "Careers") {
+		$(".page-item-16").addClass("current_page_item");
+	} else if(currentPageVar == "About Us") {
+		$(".page-item-12").addClass("current_page_item");
+	}
+	
+});
+</script>
+
+<!-- Begin Lead InSite Analytics -->
+<script type="text/javascript" src="/glance.js"></script>
+<script type="text/javascript"> var sc_project=9398918; var sc_invisible=1; var sc_security="530d3bc1"; var sc_https=1;
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www."); document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+ "statcounter.com/counter/counter.js'></"+"script>"); </script>
+<noscript><div class="statcounter"><a title="site stats" href="http://statcounter.com/free-web-stats/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/9398918/0/530d3bc1/1/" alt="site stats"></a></div></noscript>
+<!-- End Lead InSite Analytics -->
+
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk: enhanced
+Database Caching 3/46 queries in 0.956 seconds using disk
+
+ Served from: dev.mcdowellvillage.com @ 2014-11-13 19:18:11 by W3 Total Cache -->

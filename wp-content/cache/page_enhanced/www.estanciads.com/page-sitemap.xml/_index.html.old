@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.estanciads.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://www.estanciads.com/senior-living-options/</loc>
+		<lastmod>2014-08-07T20:15:22+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/DancingSeniors.jpg</image:loc>
+			<image:caption><![CDATA[Living Options]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/about-us/</loc>
+		<lastmod>2014-08-07T20:15:32+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/about-us.jpg</image:loc>
+			<image:caption><![CDATA[About Us]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/news/</loc>
+		<lastmod>2014-08-07T20:15:51+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/contact/</loc>
+		<lastmod>2014-08-07T20:16:14+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/about-us/maps-directions/</loc>
+		<lastmod>2014-08-07T20:17:04+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/about-us/meet-our-team/</loc>
+		<lastmod>2014-08-07T20:17:29+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/sam-faye.jpg</image:loc>
+			<image:caption><![CDATA[Sam Faye]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/carrie-compton.jpg</image:loc>
+			<image:caption><![CDATA[Carrie Compton]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/stephen-pratt.jpg</image:loc>
+			<image:caption><![CDATA[Stephen Pratt]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/allen-johnson.jpg</image:loc>
+			<image:caption><![CDATA[Allen Johnson]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/about-us/events/</loc>
+		<lastmod>2014-08-07T20:18:01+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/about-us/senior-resources/</loc>
+		<lastmod>2014-08-07T20:18:37+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/about-us/local-attractions/</loc>
+		<lastmod>2014-08-07T20:18:58+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/about-us/about-westliving/</loc>
+		<lastmod>2014-09-04T17:16:01+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/about-westliving.jpg</image:loc>
+			<image:caption><![CDATA[About WESTliving]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/senior-care-services-amenities/</loc>
+		<lastmod>2014-09-04T17:22:22+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/services-amenities.jpg</image:loc>
+			<image:caption><![CDATA[Services &amp; Amenities]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/senior-living-options/independent-living/</loc>
+		<lastmod>2014-09-04T17:40:48+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/independent-living.jpg</image:loc>
+			<image:caption><![CDATA[Independent Living]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/senior-living-options/assisted-living/</loc>
+		<lastmod>2014-09-04T17:41:04+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/assisted-living.jpg</image:loc>
+			<image:caption><![CDATA[Assisted Living]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/senior-living-options/memory-care/</loc>
+		<lastmod>2014-09-04T17:41:25+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/memory-care.jpg</image:loc>
+			<image:caption><![CDATA[Memory Care]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/senior-living-options/respite-care/</loc>
+		<lastmod>2014-09-04T17:41:45+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/respite-care.jpg</image:loc>
+			<image:caption><![CDATA[Respite Care]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/floor-plans/</loc>
+		<lastmod>2014-09-04T17:42:23+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://www.estanciads.com/map/images/map-floor1-thumb.jpg</image:loc>
+			<image:caption><![CDATA[First Floor Map]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.estanciads.com/map/images/map-floor2-thumb.jpg</image:loc>
+			<image:caption><![CDATA[Second Floor Map]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/senior-care-services-amenities/retirement-community-activities/</loc>
+		<lastmod>2014-09-04T17:47:32+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/activities.jpg</image:loc>
+			<image:caption><![CDATA[Community Activities]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/senior-care-services-amenities/concierge/</loc>
+		<lastmod>2014-09-04T17:48:26+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/concierge.jpg</image:loc>
+			<image:caption><![CDATA[Concierge]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/senior-care-services-amenities/dining/</loc>
+		<lastmod>2014-09-04T17:48:54+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/dining.jpg</image:loc>
+			<image:caption><![CDATA[Restaurant Dining or Casual Bistro]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/senior-care-services-amenities/westfitness-senior-fitness/</loc>
+		<lastmod>2014-09-04T17:49:28+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/westfitness.jpg</image:loc>
+			<image:caption><![CDATA[WESTfitness]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/senior-care-services-amenities/salon/</loc>
+		<lastmod>2014-09-04T17:50:33+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/salon-spa.jpg</image:loc>
+			<image:caption><![CDATA[Salon]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/senior-care-services-amenities/transportation/</loc>
+		<lastmod>2014-09-04T17:50:56+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/transportation.jpg</image:loc>
+			<image:caption><![CDATA[Transportation]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/senior-care-services-amenities/senior-wellness/</loc>
+		<lastmod>2014-09-04T17:51:52+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.estanciads.com/wp-content/uploads/wellness.jpg</image:loc>
+			<image:caption><![CDATA[Senior Wellness]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.estanciads.com/request-info/</loc>
+		<lastmod>2014-09-29T16:07:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast WordPress SEO -->
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk: enhanced
+Database Caching 8/45 queries in 1.128 seconds using disk
+
+ Served from: www.estanciads.com @ 2014-11-13 15:23:10 by W3 Total Cache -->
