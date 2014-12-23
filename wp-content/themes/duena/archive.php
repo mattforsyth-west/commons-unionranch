@@ -50,13 +50,13 @@ jQuery(document).ready(function($){
 
 						if ( is_category() ) :
 
-							printf( __( 'McDowell Village Blog: %s', 'duena' ), '<span>' . single_cat_title( '', false ) . '</span>' );
+							printf( __( 'Manteca Senior Living Blog: %s', 'duena' ), '<span>' . single_cat_title( '', false ) . '</span>' );
 
 
 
 						elseif ( is_tag() ) :
 
-							printf( __( 'McDowell Village Blog: %s', 'duena' ), '<span>' . single_tag_title( '', false ) . '</span>' );
+							printf( __( 'Manteca Senior Living Blog: %s', 'duena' ), '<span>' . single_tag_title( '', false ) . '</span>' );
 
 
 

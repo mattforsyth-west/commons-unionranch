@@ -59,7 +59,7 @@
 <div class="row">
             <div class="col-md-12" id="footer-address">
 			<?php /*echo do_shortcode('[widget id="text-13"]');*/ ?>
-McDowell Village&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;8300 East McDowell Road, Scottsdale, AZ 85257&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;480.970.6400<br>
+The Commons at Union Ranch&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;2241 N. Union Road, Manteca, CA 95336&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;209-463-9100<br>RCFE # 397004959&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
 					<?php 
 					//$footer_text = esc_attr(of_get_option('footer_text'));
 					$footer_text = "© " . date("Y") . " WESTliving";
@@ -79,7 +79,7 @@ McDowell Village&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;8300 East McDowell Road, Sc
             	<div class="col-md-12">
                     <span id="global-footer-links">
                 		<a href="http://www.westliving.net" class="btn" target="_blank">WESTliving.net</a>
-                        <a href="http://www.westliving.net/careers/?cat=5" class="btn" target="_blank">WESTliving Careers</a>
+                        <a href="http://www.westliving.net/careers/?cat=8" class="btn" target="_blank">WESTliving Careers</a>
                         <a href="http://www.westliving.net/news" class="btn" target="_blank">WESTliving News</a>
                     </span>
                 </div>

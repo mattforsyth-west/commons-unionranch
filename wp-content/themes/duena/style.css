@@ -3751,6 +3751,18 @@ a.img-link:hover:after {
 .ti-name:before {
 	content:"– ";
 }
+#primary .style-default_style {
+	width: 49%;
+	display: inline-block;
+}
+#primary .style-default_style#post-816, 
+#primary .style-default_style#post-827, 
+#primary .style-default_style#post-817, 
+#primary .style-default_style#post-826, 
+#primary .style-default_style#post-819, 
+#primary .style-default_style#post-821 {
+	width:100%;
+}
 
 /* Testimonials Page Shortcode -------------------- */
 body.page-id-252 blockquote, body.page-id-252 blockquote.easy_testimonial {
@@ -3758,7 +3770,7 @@ body.page-id-252 blockquote, body.page-id-252 blockquote.easy_testimonial {
 	margin:0;
 	display:inline-block;
 	vertical-align: top;
-	width: 49%;
+	/*width: 49%;*/
 	padding: 30px;	
 	border-top:solid 1px #f5f3e5;
 }
@@ -3817,27 +3829,30 @@ body.page-id-252 blockquote .testimonial_author:before {
 }
 
 /* Blog Categories Menu -------------------- */
-aside#nav_menu-2 {
+aside#nav_menu-2, aside#categories-2 {
 	background-color: #7c6a55;
 }
-aside#nav_menu-2 h2.widget-title {
+aside#nav_menu-2 h2.widget-title, aside#categories-2 h2.widget-title {
 	color: #fff;
 }
-aside#nav_menu-2 .menu-blog-categories-container ul {
+aside#nav_menu-2 .menu-blog-categories-container ul, aside#categories-2 ul {
 	padding-bottom:0;
 }
-aside#nav_menu-2 .menu-blog-categories-container ul li {
+aside#nav_menu-2 .menu-blog-categories-container ul li, aside#categories-2 ul li {
 	background:none;
 	padding: 10px 0 10px 0;
 	border-top: solid 1px #9a8b7d;
 }
-aside#nav_menu-2 .menu-blog-categories-container ul li:last-child {
+aside#categories-2 ul li.cat-item-2 {
+	display:none;
+}
+aside#nav_menu-2 .menu-blog-categories-container ul li:last-child, aside#categories-2 ul li:last-child {
 	padding-bottom:0;
 }
-aside#nav_menu-2 .menu-blog-categories-container a {
+aside#nav_menu-2 .menu-blog-categories-container a, aside#categories-2 ul li a {
 	color: #f0e3c5;
 }
-aside#nav_menu-2 .menu-blog-categories-container a:hover {
+aside#nav_menu-2 .menu-blog-categories-container a:hover, aside#categories-2 ul li a:hover {
 	color: #fff;
 }
 

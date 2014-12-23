@@ -27,7 +27,7 @@
 get_header(); ?>
 
     <div class="col-md-8">
-        <h1>McDowell Village Blog</h1>
+        <h1>Manteca Senior Living Blog</h1>
     </div>
 </div>
 <div class="row">
